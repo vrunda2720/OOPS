@@ -43,6 +43,8 @@ namespace ImageEx
            
         }
 
+        //second button
+
         private void B2_Click(object sender, RoutedEventArgs e)
         {
             if (I1.Visibility == Visibility.Visible)
