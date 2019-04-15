@@ -18,7 +18,7 @@ namespace OOPSEx
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Vrunda v = new Vrunda(); // v is an object
-            v.print();
+            v.print();//print method
         }
     }
 }
